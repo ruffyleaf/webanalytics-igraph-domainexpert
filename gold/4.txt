@@ -1,0 +1,216 @@
+104302 Achim Hoffmann
+1116 Ajith Abraham
+39400 Alok Choudhary
+168554 Andrew W. Moore
+59312 AnHai Doan
+14832 Arindam Banerjee
+88193 Aristides Gionis
+235889 Assaf Schuster
+89320 Bart Goethals
+287505 Benjamin W. Wah
+150917 Bing Liu
+304323 Bo Zhang
+132813 Boonserm Kijsirikul
+133042 Boris Kovalerchuk
+18949 Carla E. Brodley
+240085 Carlos Soares
+60668 Carlotta Domeniconi
+151659 Cen Li
+133239 Chandrika Kamath
+72270 Charles Elkan
+151863 Charles X. Ling
+304507 Chengqi Zhang
+304485 ChengXiang Zhai
+268085 Chew Lim Tan
+60589 Chris Ding
+89865 Chris Giannella
+18676 Christian Borgelt
+89903 Christophe Giraud-Carrier
+199482 Christopher Olston
+78592 Christos Faloutsos
+90230 Crina Grosan
+20077 Daniel Boley
+106329 David J. Hand
+125517 David Jensen
+207160 David M. Pennock
+206820 David Page
+268801 David Taniar
+241352 Dennis Shasha
+172192 Dharmendra S. Modha
+43132 Diane J. Cook
+91336 Dimitrios Gunopulos
+3690 Dimitris Achlioptas
+206904 Dimitris Papadias
+207103 Dino Pedreschi
+242004 Divesh Srivastava
+207066 Dmitry Pavlov
+268769 Domenico Talia
+135166 Eamonn Keogh
+153531 Ee-Peng Lim
+80112 Eibe Frank
+4470 Eugene Agichtein
+73258 Floriana Esposito
+22072 Francesco Bonchi
+44530 Frans Coenen
+5438 Gagan Agrawal
+62630 Gautam Das
+290220 Geoffrey I. Webb
+136051 George Karypis
+136360 George Kollios
+174178 Giuseppe Manco
+45461 Graham Cormode
+225425 Greg Ridgeway
+209273 Gregory Piatetsky-Shapiro
+62923 Guozhu Dong
+209656 Haesun Park
+290632 Haixun Wang
+126433 Hasan M. Jamil
+175097 Heikki Mannila
+136702 Hillol Kargupta
+63085 Honghua Dai
+155514 Hongjun Lu
+108829 Howard J. Hamilton
+45817 Hsinchun Chen
+155365 Huan Liu
+299134 Hui Xiong
+301110 Hwanjo Yu
+63537 Inderjit S. Dhillon
+93975 Isabelle Guyon
+306180 Jacek M. Zurada
+249431 Jaideep Srivastava
+226690 Jan Rauch
+279258 Jeffrey D. Ullman
+210853 Jian Pei
+110020 Jiawei Han
+301439 Jin Soung Yoo
+156882 Jinyan Li
+301242 Jiong Yang
+94389 Johannes Gehrke
+156078 John Langford
+138822 Joost N. Kok
+94517 Joydeep Ghosh
+301234 Jun Yang
+179217 Katharina Morik
+292577 Ke Wang
+48658 Kevin Chen-Chuan Chang
+27273 Kevin W. Bowyer
+250900 Krishnamoorthy Sivakumar
+26966 Kristin P. Bennett
+95826 Krzysztof Grabczewski
+292722 Kyu-Young Whang
+250735 Kyuseok Shim
+293157 Li Wei
+82910 Ling Feng
+273067 Ljupco Todorovski
+228353 Luc De Raedt
+279440 Lyle H. Ungar
+306617 Marco Zaffalon
+294256 Marek Wojciechowski
+66833 Margaret H. Dunham
+181442 Marina Meila
+97825 Marko Grobelnik
+75267 Martin Ester
+141693 Masaru Kitsuregawa
+253987 Masashi Shimbo
+252459 Maytal Saar-Tsechansky
+252547 Mehran Sahami
+30699 Michael C. Burl
+113052 Michael Hahsler
+29395 Michael R. Berthold
+255083 Michael Steinbach
+142473 Michihiro Kuramochi
+9529 Mihael Ankerst
+50648 Ming-Syan Chen
+195282 Mirco Nanni
+141564 Myoung Ho Kim
+254876 Myra Spiliopoulou
+160607 Nada Lavrac
+230334 Naren Ramakrishnan
+214836 Neoklis Polyzotis
+182864 Nikos Mamoulis
+183231 Nina Mishra
+307122 Ning Zhong
+51910 Nitesh V. Chawla
+196234 Olfa Nasraoui
+183460 Olvi L. Mangasarian
+257864 Padhraic Smyth
+32699 Pavel Brazdil
+84854 Peter A. Flach
+52929 Peter Christen
+67462 Peter Damaschke
+115135 Peter Haddawy
+257235 Peter Scheuermann
+302418 Philip S. Yu
+68043 Pradeep Dubey
+302444 Qiang Yang
+231707 Raghu Ramakrishnan
+186456 Rajeev Motwani
+231828 Rajeev Rastogi
+11563 Rakesh Agrawal
+144696 Ralf Klinkenberg
+144891 Ramamohanarao Kotagiri
+296109 Ran Wolff
+85305 Ronen Feldman
+129319 Rong Jin
+144504 Roni Khardon
+144783 Ron Kohavi
+185909 Rosa Meo
+259312 Rudy Setiono
+186001 Ryszard S. Michalski
+233445 Saharon Rosset
+262016 Sameer Singh
+118144 San-Yih Hwang
+55292 Sanjay Chawla
+69916 Saso Dzeroski
+262014 Satinder Singh
+117851 Se June Hong
+302637 Seiji Yamada
+187553 Sharad Mehrotra
+55091 Sharma Chakravarthy
+261711 Shashi Shekhar
+197438 Shawn Newsam
+307929 Shi Zhong
+307847 Shichao Zhang
+296570 Sholom M. Weiss
+55072 Soumen Chakrabarti
+217308 Srinivasan Parthasarathy
+101735 Sudipto Guha
+260917 Sunita Sarawagi
+203357 Takashi Okada
+297194 Takashi Washio
+280030 Takeaki Uno
+302984 Takehisa Yairi
+146882 Tamer Kahveci
+76783 Tapio Elomaa
+218245 Themistoklis Palpanas
+118760 Thomas Hofmann
+86521 Tom Fawcett
+123813 Tomasz Imielinski
+119322 Vasant Honavar
+148340 Vipin Kumar
+198469 Wee Keong Ng
+87111 Wei Fan
+297794 Wei Wang
+220615 Weining Qian
+165224 Wenke Lee
+70992 Wenliang Du
+265739 Werner Stuetzle
+57676 William W. Cohen
+38294 Wray Buntine
+119742 Wynne Hsu
+299651 Xiaowei Xu
+298337 Xindong Wu
+308740 Xingquan Zhu
+298357 Xintao Wu
+165794 Xuemin Lin
+190650 Yannis Manolopoulos
+278446 Yannis Theodoridis
+149101 Yasuhiko Kitamura
+166351 Yi Lin
+308820 Yi Zhang
+298477 Yuedong Wang
+190709 Yuji Matsumoto
+198735 Zaiqing Nie
+235054 Zbigniew W. Ras
+309298 Zhi-Hua Zhou
+203878 Zoran Obradovic

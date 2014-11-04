@@ -1,0 +1,63 @@
+5028 Felix Agakov
+12772 Shun-ichi Amari
+3371 Christophe Andrieu
+9551 Martin Anthony
+6309 Hagai Attias
+19315 Dana H. Ballard
+28768 Marian Stewart Bartlett
+28923 Matthew J. Beal
+35325 Samy Bengio
+18759 Craig Boutilier
+53762 Rich Caruana
+55667 Selina Chu
+45498 Garrison W. Cottrell
+67571 Peter Dayan
+84460 Nando de Freitas
+93311 Hugo de Garis
+70188 Thomas G. Dietterich
+87268 William T. Freeman
+78504 Brendan J. Frey
+84472 Nir Friedman
+103504 Zoubin Ghahramani
+112539 Lars Kai Hansen
+118583 Tom Heskes
+108490 Geoffrey E. Hinton
+119322 Vasant Honavar
+128327 Michael I. Jordan
+128993 Prashant Joshi
+141249 Michael Kearns
+134271 Daniel Keysers
+134609 Daphne Koller
+163090 Steve Lawrence
+166021 Yann LeCun
+165285 Wee Kheng Leow
+190095 Wolfgang Maass
+167717 Andrew McCallum
+181442 Marina Meila
+189140 Thomas P. Minka
+179369 Kevin P. Murphy
+186595 Roderick Murray-Smith
+199909 Erkki Oja
+201799 Manfred Opper
+231788 Rajesh P. N. Rao
+222663 Carl Edward Rasmussen
+229420 Michael Revow
+233635 Stuart Russell
+240649 David Saad
+252551 Maneesh Sahani
+237991 Brian Sallans
+251600 Lawrence K. Saul
+242675 Eric Saund
+235653 Andrew I. Schein
+260543 Richard S. Sutton
+258418 Peter Sykacek
+278425 Yee Whye Teh
+274503 Naftali Tishby
+298636 Yair Weiss
+293821 Max Welling
+297970 Wim Wiegerinck
+288402 Christopher K. I. Williams
+294754 Ole Winther
+293315 Laurenz Wiskott
+301354 Jonathan S. Yedidia
+309298 Zhi-Hua Zhou

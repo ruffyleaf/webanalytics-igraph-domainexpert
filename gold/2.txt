@@ -1,0 +1,95 @@
+10174 Narendra Ahuja
+14413 Yiannis Aloimonos
+33098 Ruzena Bajcsy
+33323 Ronen Basri
+35287 Serge Belongie
+15838 Andrew Blake
+34061 Ruud Bolle
+27273 Kevin W. Bowyer
+16512 Alberto Broggi
+26633 J. Brian Burns
+17782 Bernard Buxton
+56286 Ted Camus
+52194 Octavia Camps
+54878 Stefan Carlsson
+54040 Rama Chellappa
+54193 Roberto Cipolla
+46465 Ingemar J. Cox
+58443 Yuntao Cui
+64914 Kostas Daniilidis
+67589 Paul Debevec
+64106 Joachim Denzler
+68485 Rachid Deriche
+69464 Sven Dickinson
+60032 Byron Dom
+60704 Chitra Dorai
+66704 Mark S. Drew
+63016 Gregory Dudek
+76280 Shimon Edelman
+74029 Jan-Olof Eklundh
+81059 Hany Farid
+84525 Olivier Faugeras
+79571 David Forsyth
+78548 Brian Funt
+90582 Davi Geiger
+92957 Gaile G. Gordon
+91881 Eric Grimson
+113600 Martial Hebert
+113825 Martin Herman
+116776 Radu Horaud
+111274 Joachim Hornegger
+122080 John Illingworth
+122248 Katsushi Ikeuchi
+124338 Anil K. Jain
+130891 Avi Kak
+135958 Gerda Kamberova
+146954 Takeo Kanade
+145376 Sing Bing Kang
+149843 Ales Leonardis
+164410 Thomas Leung
+159826 Mengxiang Li
+163508 Stan Z. Li
+164544 Tony Lindeberg
+157210 Jim Little
+153106 David Lowe
+161883 Quang-Tuan Luong
+176450 Jitendra Malik
+185248 Roberto Manduchi
+171919 Dimitris Metaxas
+177856 Jun Miura
+186215 Roger Mohr
+186208 Rakesh Mohan
+196892 Randal C. Nelson
+200834 John Oliensis
+202758 Robyn Owens
+217148 Sharath Pankanti
+207051 Dietrich Paulus
+215515 Pietro Perona
+218587 Tomaso Poggio
+211475 Jean Ponce
+226809 James M. Rehg
+226258 Ian Reid
+224474 Ehud Rivlin
+228624 Luc Robert
+221716 Azriel Rosenfeld
+244568 Giulio Sandini
+260944 Sudeep Sarkar
+242675 Eric Saund
+236331 Amnon Shashua
+266197 Yoshiaki Shirai
+262252 Stefano Soatto
+244217 Franc Solina
+245377 Gideon P. Stein
+260619 Richard Szeliski
+277163 Tieniu Tan
+270309 Gabriel Taubin
+268929 Demetri Terzopoulos
+267954 Bill Triggs
+279914 Shimon Ullman
+96312 Luc Van Gool
+284981 Paul Viola
+288929 Daphna Weinshall
+293864 Michael Werman
+307480 Ramin Zabih
+309192 Zhengyou Zhang
+304168 Andrew Zisserman

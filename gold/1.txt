@@ -1,0 +1,34 @@
+31933 Peter L. Bartlett
+24892 Jonathan Baxter
+38453 Yoshua Bengio
+26966 Kristin P. Bennett
+28181 Leo Breiman
+70188 Thomas G. Dietterich
+67194 Nigel Duffy
+76008 Ran El-Yaniv
+84054 Marcus Frean
+87458 Yoav Freund
+82338 Jerome Friedman
+103383 Yves Grandvalet
+116477 Ralf Herbrich
+130482 Wenxin Jiang
+155936 John Lafferty
+149671 Aleksandar Lazarevic
+154408 Guy Lebanon
+187017 Shie Mannor
+179675 Llew Mason
+185846 Ron Meir
+187779 Sebastian Mika
+184758 Pedro J. Moreno
+207066 Dmitry Pavlov
+214113 Massimiliano Pontil
+225425 Greg Ridgeway
+241103 Dale Schuurmans
+243957 Fabrizio Sebastiani
+266244 Yoram Singer
+277954 Volker Tresp
+267560 Alexey Tsymbal
+284981 Paul Viola
+287813 Bob Williamson
+308103 Tong Zhang
+309298 Zhi-Hua Zhou

@@ -1,0 +1,52 @@
+3391 Cecilio Angulo
+19395 David Barber
+35325 Samy Bengio
+26967 Kristin Bennett
+23489 Hilan Bensusan
+37736 Volker Blanz
+31635 Olivier Bousquet
+19117 Christopher J. C. Burges
+19118 Chris Burges
+40903 Colin Campbell
+42349 Doina Caragea
+52145 Nello Cristianini
+52248 Olivier Chapelle
+52145 Nello Cristianini
+67194 Nigel Duffy
+76919 Theodoros Evgeniou
+85698 Robert M. Freund
+87704 Alex Gammerman
+87712 Aravind Ganapathiraju
+92224 Federico Girosi
+102226 Thore Graepel
+101789 Steve R. Gunn
+93975 Isabelle Guyon
+116477 Ralf Herbrich
+148065 Vojislav Kecman
+146712 Shailesh Kumar
+161190 Pavel Laskov
+151767 Chih-Jen Lin
+183460 Olvi L. Mangasarian
+187779 Sebastian Mika
+202099 Nuria Oliver
+218587 Tomaso Poggio
+214113 Massimiliano Pontil
+208391 Francesco Palmieri
+223977 Danny Roobaert
+232394 Roman Rosipal
+240649 David Saad
+239206 Craig Saunders
+241103 Dale Schuurmans
+248556 John Shawe-Taylor
+266244 Yoram Singer
+236993 Alexander J. Smola
+257901 Peter Sollich
+272794 Koji Tsuda
+286470 Volodya Vovk
+286250 Vladimir Vapnik
+290104 Grace Wahba
+291841 Jason Weston
+287813 Bob Williamson
+289474 Donghui Wu
+298682 Ying Wu
+301998 Ming-Hsuan Yang

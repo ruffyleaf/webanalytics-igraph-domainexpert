@@ -1,0 +1,17 @@
+64570 Jon Doyle
+86599 Timothy Finin
+96076 Les Gasser
+104836 Barbara Hayes-Roth
+119322 Vasant Honavar
+144919 Robert Kowalski
+164965 Victor Lesser
+155277 Henry Lieberman
+183730 Pattie Maes
+196627 Peter Norvig
+233635 Stuart Russell
+263512 Ted Selker
+266206 Yoav Shoham
+273359 Milind Tambe
+297455 Terry Winograd
+294348 Michael Wooldridge
+307988 Shlomo Zilberstein

@@ -1,0 +1,13 @@
+1 Boosting
+2 Computer-Vision
+3 Cryptography
+4 Data-Mining
+5 Information-Extraction
+6 Intelligent-Agents
+7 Machine-Learning
+8 Natural-Language-Processing
+9 Neural-Networks
+10 Ontology-Alignment
+11 Planning
+12 Semantic-Web
+13 Support-Vector-Machine
